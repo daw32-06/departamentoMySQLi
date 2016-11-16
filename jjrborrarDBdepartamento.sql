@@ -1,3 +1,3 @@
 drop database jjrDBdepartamento;
 
-drop user usuarioDepartamento; 
+drop user usDepartamento; 
